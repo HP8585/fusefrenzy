@@ -1,0 +1,527 @@
+[
+    {
+        "clue": "Makes our world bright in the absence of the moon.",
+        "answer": "Sun",
+        "reward": 10
+    },
+    {
+        "clue": "A device used for communication and accessing information.",
+        "answer": "Phone",
+        "reward": 8
+    },
+    {
+        "clue": "A common beverage made from roasted coffee beans.",
+        "answer": "Coffee",
+        "reward": 6
+    },
+    {
+        "clue": "A popular social media platform for sharing photos and videos.",
+        "answer": "Instagram",
+        "reward": 12
+    },
+    {
+        "clue": "A small, handheld device used for calculating mathematical operations.",
+        "answer": "Calculator",
+        "reward": 7
+    },
+    {
+        "clue": "A natural satellite that orbits the Earth.",
+        "answer": "Moon",
+        "reward": 9
+    },
+    {
+        "clue": "A mode of transportation that runs on tracks and carries passengers.",
+        "answer": "Train",
+        "reward": 8
+    },
+    {
+        "clue": "A popular social networking website.",
+        "answer": "Facebook",
+        "reward": 10
+    },
+    {
+        "clue": "A sweet, frozen dessert made from milk or cream.",
+        "answer": "Ice cream",
+        "reward": 7
+    },
+    {
+        "clue": "A device used for capturing still images and recording videos.",
+        "answer": "Camera",
+        "reward": 8
+    },
+    {
+        "clue": "A popular video-sharing platform.",
+        "answer": "YouTube",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for cooking food.",
+        "answer": "Oven",
+        "reward": 7
+    },
+    {
+        "clue": "A musical instrument with black and white keys.",
+        "answer": "Piano",
+        "reward": 8
+    },
+    {
+        "clue": "A popular messaging application.",
+        "answer": "WhatsApp",
+        "reward": 9
+    },
+    {
+        "clue": "A small, portable storage device for digital files.",
+        "answer": "USB drive",
+        "reward": 7
+    },
+    {
+        "clue": "A social media platform known for its character limit on posts.",
+        "answer": "Twitter",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for listening to music or audio.",
+        "answer": "Headphones",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online marketplace for buying and selling goods.",
+        "answer": "eBay",
+        "reward": 10
+    },
+    {
+        "clue": "A common mode of transportation with two wheels.",
+        "answer": "Bicycle",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its square photo format.",
+        "answer": "Instagram",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for measuring time.",
+        "answer": "Watch",
+        "reward": 7
+    },
+    {
+        "clue": "A popular search engine.",
+        "answer": "Google",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for washing clothes.",
+        "answer": "Washing machine",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its professional networking.",
+        "answer": "LinkedIn",
+        "reward": 10
+    },
+    {
+        "clue": "A device used for playing video games.",
+        "answer": "Console",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online streaming platform for movies and TV shows.",
+        "answer": "Netflix",
+        "reward": 9
+    },
+    {
+        "clue": "A common mode of transportation with four wheels.",
+        "answer": "Car",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its disappearing photo and video messages.",
+        "answer": "Snapchat",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for cooling food and beverages.",
+        "answer": "Refrigerator",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online dia.",
+        "answer": "Wikipedia",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for heating food.",
+        "answer": "Microwave",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its short video content.",
+        "answer": "TikTok",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for projecting images or videos onto a screen.",
+        "answer": "Projector",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online shopping platform.",
+        "answer": "Amazon",
+        "reward": 10
+    },
+    {
+        "clue": "A common mode of transportation with wings.",
+        "answer": "Airplane",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its visual inspiration.",
+        "answer": "Pinterest",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for playing music.",
+        "answer": "Music player",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online video conferencing platform.",
+        "answer": "Zoom",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for cleaning floors.",
+        "answer": "Vacuum cleaner",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its business networking.",
+        "answer": "LinkedIn",
+        "reward": 10
+    },
+    {
+        "clue": "A device used for playing video games on the go.",
+        "answer": "Handheld console",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online music streaming platform.",
+        "answer": "Spotify",
+        "reward": 9
+    },
+    {
+        "clue": "A common mode of transportation with two wheels and pedals.",
+        "answer": "Bicycle",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its short text messages.",
+        "answer": "Twitter",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for measuring distance.",
+        "answer": "Ruler",
+        "reward": 7
+    },
+    {
+        "clue": "A popular email service provider.",
+        "answer": "Gmail",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for drying clothes.",
+        "answer": "Dryer",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its video content.",
+        "answer": "YouTube",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for listening to music or audio wirelessly.",
+        "answer": "Wireless headphones",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online marketplace for handmade and vintage items.",
+        "answer": "Etsy",
+        "reward": 10
+    },
+    {
+        "clue": "A common mode of transportation with four wheels and an engine.",
+        "answer": "Car",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its visual content.",
+        "answer": "Instagram",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for measuring weight.",
+        "answer": "Scale",
+        "reward": 7
+    },
+    {
+        "clue": "A popular web browser.",
+        "answer": "Chrome",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for cooking food quickly.",
+        "answer": "Microwave",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its short video clips.",
+        "answer": "TikTok",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for projecting images or videos onto a surface.",
+        "answer": "Projector",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online shopping platform for electronics.",
+        "answer": "Best Buy",
+        "reward": 10
+    },
+    {
+        "clue": "A common mode of transportation on water.",
+        "answer": "Boat",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its visual discovery.",
+        "answer": "Pinterest",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for playing digital music files.",
+        "answer": "MP3 player",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online video conferencing platform for businesses.",
+        "answer": "Microsoft Teams",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for cleaning surfaces.",
+        "answer": "Broom",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its professional networking.",
+        "answer": "LinkedIn",
+        "reward": 10
+    },
+    {
+        "clue": "A device used for playing video games with motion control.",
+        "answer": "Nintendo Switch",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online music streaming platform with curated playlists.",
+        "answer": "Apple Music",
+        "reward": 9
+    },
+    {
+        "clue": "A common mode of transportation with two wheels and an engine.",
+        "answer": "Motorcycle",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its disappearing messages.",
+        "answer": "Snapchat",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for keeping food and beverages cold.",
+        "answer": "Fridge",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online encyclopedia that can be edited by users.",
+        "answer": "Wikipedia",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for heating water.",
+        "answer": "Kettle",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its short-form videos.",
+        "answer": "Vine",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for projecting images or videos onto a wall.",
+        "answer": "Wall projector",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online shopping platform for fashion items.",
+        "answer": "ASOS",
+        "reward": 10
+    },
+    {
+        "clue": "A common mode of transportation with two wheels and pedals.",
+        "answer": "Bicycle",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its character limit on posts.",
+        "answer": "Twitter",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for measuring temperature.",
+        "answer": "Thermometer",
+        "reward": 7
+    },
+    {
+        "clue": "A popular email service provider.",
+        "answer": "Outlook",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for drying wet hair.",
+        "answer": "Hairdryer",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its video content.",
+        "answer": "YouTube",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for listening to music or audio wirelessly.",
+        "answer": "Bluetooth headphones",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online marketplace for handmade and vintage items.",
+        "answer": "Etsy",
+        "reward": 10
+    },
+    {
+        "clue": "A common mode of transportation with four wheels and an engine.",
+        "answer": "Car",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its visual content.",
+        "answer": "Instagram",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for measuring weight.",
+        "answer": "Scale",
+        "reward": 7
+    },
+    {
+        "clue": "A popular web browser.",
+        "answer": "Firefox",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for cooking food quickly.",
+        "answer": "Toaster",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its short video clips.",
+        "answer": "Vine",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for projecting images or videos onto a surface.",
+        "answer": "Projector",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online shopping platform for electronics.",
+        "answer": "Newegg",
+        "reward": 10
+    },
+    {
+        "clue": "A common mode of transportation on water.",
+        "answer": "Boat",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its visual discovery.",
+        "answer": "Pinterest",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for playing digital music files.",
+        "answer": "iPod",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online video conferencing platform for businesses.",
+        "answer": "Webex",
+        "reward": 9
+    },
+    {
+        "clue": "A common household appliance used for cleaning surfaces.",
+        "answer": "Sponge",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its professional networking.",
+        "answer": "LinkedIn",
+        "reward": 10
+    },
+    {
+        "clue": "A device used for playing video games with motion control.",
+        "answer": "PlayStation Move",
+        "reward": 8
+    },
+    {
+        "clue": "A popular online music streaming platform with curated playlists.",
+        "answer": "Tidal",
+        "reward": 9
+    },
+    {
+        "clue": "A common mode of transportation with two wheels and an engine.",
+        "answer": "Motorcycle",
+        "reward": 8
+    },
+    {
+        "clue": "A social media platform known for its disappearing messages.",
+        "answer": "Telegram",
+        "reward": 9
+    },
+    {
+        "clue": "A device used for keeping food and beverages cold.",
+        "answer": "Cooler",
+        "reward": 8
+    },
+    {
+        "clue": "Protects lives and assets of the people of the city.",
+        "answer": "Police",
+        "reward": 14
+    },
+    {
+        "clue": "Used in wars before guns.",
+        "answer": "Sword",
+        "reward": 16
+    },
+    {
+        "clue": "Biggest continent.",
+        "answer": "Asia",
+        "reward": 12
+    },
+    {
+        "clue": "Has made this game.",
+        "answer": "Hussain panahy",
+        "reward": 20
+    }
+]

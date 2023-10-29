@@ -1,0 +1,35 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    @apply bg-gray-900
+}
+table tr{
+    @apply border-b text-center
+}
+tr td{
+    @apply border-r px-4
+}
+
+/*Menu modal*/
+
+.menu li{
+    @apply flex items-center justify-center gap-2;
+    @apply bg-gray-50 text-black w-full py-2 px-2 cursor-pointer;
+    @apply hover:bg-gray-200 duration-75 rounded hover:text-black
+}
+
+/*Bottom sheet menu*/
+.BS-menu{
+    @apply mt-[3em] flex flex-col gap-8
+}
+.BS-menu span{
+    @apply font-bold text-[1.2rem]
+}
+.BS-menu li{
+    @apply font-semibold
+}
+.BS-menu li p{
+    @apply w-[23.5em] md:w-[35em] text-[.8rem]
+}
